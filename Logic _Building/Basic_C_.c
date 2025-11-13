@@ -26,7 +26,7 @@ int Binary_search(int,int[],int);
 
 struct Employee
 {
-    //Learning
+    //Learning DSA is Next
     int empid,salary;
     char name[20];
 };
