@@ -26,6 +26,7 @@ int Binary_search(int,int[],int);
 
 struct Employee
 {
+    //Learning
     int empid,salary;
     char name[20];
 };
